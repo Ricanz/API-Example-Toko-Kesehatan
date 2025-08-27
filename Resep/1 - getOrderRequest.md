@@ -7,7 +7,16 @@
     "data":{
         "kodeprovider" : "212",
         "kode_branch": "1",
-        "no_rm": "00072363"
+        "no_rm": "00072363",
+        "tarif": "standar",
+        "order_id": "76397", // generate dari mobile
+        "text": "", // kalo menggunakan resep maka di isi "dengan resep", kalau tidak dikosongin aja
+        "obat": [ // obat bisa kosng (text manual)
+            {
+                "kode_obat": "", // satuan dan harga udah dapet dari kode obat
+                "jumlah": ""
+            }
+        ]
     }
 }
 ```

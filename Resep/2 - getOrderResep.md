@@ -7,7 +7,7 @@
     "data":{
         "kodeprovider" : "212",
         "kode_branch": "1",
-        "nomor_registrasi": "MED-001"
+        "order_id": "MED-001"
     }
 }
 ```
@@ -19,7 +19,7 @@
     "status": "Ok",
     "pesan": "Berhasil",
     "response": {
-        "nomor_registrasi": "TRX-001",
+        "order_id": "MED-001",
         "detail": [
             {
                 "kode_obat": "OB-001",
@@ -39,5 +39,5 @@
 ## Notes
 - Digunakan untuk menampilkan list data `Obat` yang sudah diregistrasikan di Healthical
 - Kode provider dan kode branch di tampilkan dalam request
-- API akann diimplementasikan di CMS
+- API akan diimplementasikan di CMS
 - API dbutuhkan hanya untuk Get data ke CMS

@@ -11,7 +11,7 @@
     // prepared => Obat Disiapkan
     // refused => Obat Dibatalkan
     // pending_payment => Transaksi Menunggu Pembayaran
-    // settlement => Transaksi Telah Dibayar
+    // settlement => Transaksi Telah Dibayar // kita
     // cancel => Transaksi Dibatalkan
     "deskripsi": "Transaksi Menunggu Pembayaran"
 }

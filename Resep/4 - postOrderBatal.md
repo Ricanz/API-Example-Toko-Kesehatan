@@ -1,4 +1,4 @@
-## Post Batal Obat
+## Post Batal Obat -  Pembatalan di CMS dan Otomatis
 
 ## Method POST
 ### Request
@@ -7,7 +7,7 @@
     "data":{
         "kodeprovider" : "212",
         "kode_branch": "1",
-        "nomor_registrasi": "MED-001",
+        "order_id": "MED-001",
         "alasan": "Batal membeli obat"
     }
 }

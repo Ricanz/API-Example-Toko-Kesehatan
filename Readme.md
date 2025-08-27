@@ -14,4 +14,4 @@ Below is the list of available APIs.
 
 4. [Push Tracking Status](./Resep/3%20-%20pushTrackingStatus.md) \
 
-5. [Post Batal Obat](./Resep/4%20-%20postOrderBatal.md) \
+5. [Post Batal Obat - Gajadi](./Resep/4%20-%20postOrderBatal.md) \
